@@ -3,9 +3,10 @@
 $ git status # for cheacking is this folder a git repositories.
 $ git init # for making a folder git repositories
 $ git add . # this command turn all the file to stage file
-$ git commit # this command is used for commit changes to the file
+$ git commit -m "message" # this command is used for commit changes to the file
 $ git log # command is usde for identify each author's changes in a project
 $ git config --global user.name " user name" # set the author username globally
 $ git config --global user.email " email address" # set author email address globally
-
+ $ git remote add origin "SSH" of the repository # adding remote repository in a website like github your file.
+ git push -u origin master # this command is used for push file from your machine to github
 
