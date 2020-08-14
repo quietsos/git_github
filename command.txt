@@ -9,4 +9,4 @@ $ git config --global user.name " user name" # set the author username globally
 $ git config --global user.email " email address" # set author email address globally
 $ git remote add origin "SSH" of the repository # adding remote repository in a website like github your file.
 $ git push -u origin master # this command is used for push file from your machine to github
-
+$ git pull orgin master # this command is used for pulling any changes of the file in remote repository to your machine file
