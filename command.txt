@@ -1,0 +1,3 @@
+$ git status # for cheacking is this folder a git repositories.
+$ git init # for making a folder git repositories
+$ git add . # this command turn all the file to stage file
