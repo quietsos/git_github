@@ -16,3 +16,6 @@ $ git checkout "file name" # this command is used for reset the file to the prev
  git add -A # stages all the file
  git add . # stages new and modified, without deleted
  git add -u # stages modified  and deleted, without new
+ 
+ what should i do now
+ 
