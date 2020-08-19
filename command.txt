@@ -13,3 +13,6 @@ $ git pull orgin master # this command is used for pulling any changes of the fi
 $ git diff "file name" # this command is used for cheacking the make changes of the file
 $ git reset "file name"  # this command is usde for unstage the file
 $ git checkout "file name" # this command is used for reset the file to the previous commit
+ git add -A # stages all the file
+ git add . # stages new and modified, without deleted
+ git add -u # stages modified  and deleted, without new
