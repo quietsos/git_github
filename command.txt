@@ -18,4 +18,4 @@ $ git checkout "file name" # this command is used for reset the file to the prev
  git add -u # stages modified  and deleted, without new
  
  what should i do now
- 
+ Md Shohanuzzaman
